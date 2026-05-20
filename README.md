@@ -33,7 +33,7 @@ The lab was eventually decommissioned after repeated stability and resource issu
 ---
 
 
-### Switched my host OS from Windows to Ubuntu Linux as it was ligher, smoother and I enjoyed being in the terminal
+### Switched my host OS from Windows to Ubuntu Linux as it was lighter, smoother and I enjoyed being in the terminal
 
 ![Ubuntu Install](Ubuntu.PNG)
 
