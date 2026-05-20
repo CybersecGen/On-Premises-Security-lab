@@ -32,6 +32,19 @@ The lab was eventually decommissioned after repeated stability and resource issu
 
 ---
 
+
+### Switched my host OS from Windows to Ubuntu Linux 
+
+![Ubuntu Install](Ubuntu.PNG)
+
+### Hardware Upgrade on my primary Lenovo laptop before upgrading to a MacBook Pro.
+
+![Hardware Upgrade](hardware-update.heic)
+
+![Hardware Upgrade](hardware-update2.heic)
+
+---
+
 ## Attack Simulation
 
 The environment was used to simulate common internal attack activity including:
@@ -62,18 +75,6 @@ Main problems included:
 The biggest lesson was understanding how quickly observability and security tooling become resource-intensive in real environments.
 
 Instead of endlessly rebuilding unstable infrastructure, I decided to decommission the lab and rethink future projects using a smaller and more modular design.
-
----
-
-### Switched my host OS from Windows to Ubuntu Linux 
-
-![Ubuntu Install](Ubuntu.PNG)
-
-### Hardware Upgrade on my primary Lenovo laptop before upgrading to a MacBook Pro.
-
-![Hardware Upgrade](hardware-update.heic)
-
-![Hardware Upgrade](hardware-update2.heic)
 
 ---
 
