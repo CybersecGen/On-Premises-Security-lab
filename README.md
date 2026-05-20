@@ -67,11 +67,13 @@ Instead of endlessly rebuilding unstable infrastructure, I decided to decommissi
 
 ### Switched my host OS from Windows to Ubuntu 
 
-(ubuntu.png)
+(Ubuntu.png)
 
 ### Hardware Upgrade 
 
-(hardware-upgrade.png)
+(hardware-upgrade.heic)
+
+(hardware-upgrade2.heic)
 
 ---
 
