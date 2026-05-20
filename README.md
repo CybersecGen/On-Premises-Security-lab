@@ -67,7 +67,7 @@ Instead of endlessly rebuilding unstable infrastructure, I decided to decommissi
 
 ### Switched my host OS from Windows to Ubuntu 
 
-![Ubuntu Install](Ubuntu.png)
+![Ubuntu Install](Ubuntu.PNG)
 
 ### Hardware Upgrade 
 
