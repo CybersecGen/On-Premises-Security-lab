@@ -65,6 +65,16 @@ Instead of endlessly rebuilding unstable infrastructure, I decided to decommissi
 
 ---
 
+### Switched my host OS from Windows to Ubuntu 
+
+(ubuntu.png)
+
+### Hardware Upgrade 
+
+(hardware-upgrade.png)
+
+---
+
 ## Key Lessons Learned
 
 - Active Directory depends heavily on stable DNS and time synchronisation
