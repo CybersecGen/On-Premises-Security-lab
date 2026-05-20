@@ -65,11 +65,11 @@ Instead of endlessly rebuilding unstable infrastructure, I decided to decommissi
 
 ---
 
-### Switched my host OS from Windows to Ubuntu 
+### Switched my host OS from Windows to Ubuntu Linux 
 
 ![Ubuntu Install](Ubuntu.PNG)
 
-### Hardware Upgrade 
+### Hardware Upgrade on my primary Lenovo laptop before upgrading to a MacBook Pro.
 
 ![Hardware Upgrade](hardware-update.heic)
 
