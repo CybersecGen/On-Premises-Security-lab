@@ -33,11 +33,11 @@ The lab was eventually decommissioned after repeated stability and resource issu
 ---
 
 
-### Switched my host OS from Windows to Ubuntu Linux 
+### Switched my host OS from Windows to Ubuntu Linux as it was ligher, smoother and I enjoyed being in the terminal
 
 ![Ubuntu Install](Ubuntu.PNG)
 
-### Hardware Upgrade on my primary Lenovo laptop before upgrading to a MacBook Pro.
+### Hardware Upgrade on my primary Lenovo laptop before completely upgrading to a MacBook Pro for more processor power.
 
 ![Hardware Upgrade](hardware-update.heic)
 
