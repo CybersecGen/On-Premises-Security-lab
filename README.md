@@ -71,9 +71,9 @@ Instead of endlessly rebuilding unstable infrastructure, I decided to decommissi
 
 ### Hardware Upgrade 
 
-![Hardware Upgrade](hardware-upgrade.heic)
+![Hardware Upgrade](hardware-update.heic)
 
-![Hardware Upgrade](hardware-upgrade2.heic)
+![Hardware Upgrade](hardware-update2.heic)
 
 ---
 
