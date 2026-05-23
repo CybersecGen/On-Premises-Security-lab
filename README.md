@@ -72,9 +72,7 @@ Main problems included:
 - CPU and RAM saturation under multi-VM workloads
 - Apple Silicon migration reducing virtualisation compatibility
 
-The biggest lesson was understanding how quickly observability and security tooling become resource-intensive in real environments.
-
-Instead of endlessly rebuilding unstable infrastructure, I decided to decommission the lab and rethink future projects using a smaller and more modular design.
+The biggest lesson was understanding how quickly observability and security tooling become resource-intensive in real environments. Instead of endlessly rebuilding unstable infrastructure, I decided to decommission the lab and rethink future projects using a smaller and more modular design.
 
 ---
 
@@ -91,9 +89,7 @@ Instead of endlessly rebuilding unstable infrastructure, I decided to decommissi
 
 ## Why I Archived The Project
 
-The environment became too resource-heavy to maintain reliably on local hardware.
-
-Rather than continue patching instability issues, I decided to archive the lab and focus future projects around:
+The environment became too resource-heavy to maintain reliably on local hardware. Rather than continue patching instability issues, I decided to archive the lab and focus future projects around:
 
 - cloud infrastructure
 - Infrastructure-as-Code
@@ -115,7 +111,7 @@ The next version of this project will focus on cloud security engineering using 
 
 ---
 
-## Final Thoughts
+## Conclusion
 
 This project gave me practical experience working with:
 
