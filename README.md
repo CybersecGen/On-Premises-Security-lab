@@ -1,6 +1,6 @@
 # Enterprise Security Lab <img src="https://img.shields.io/badge/Status-Decommissioned-red" />
 
-Built a self-hosted Active Directory and security monitoring lab to better understand Windows infrastructure, SIEM pipelines, endpoint telemetry, and attack detection in a realistic multi-system environment.
+Built a self-hosted Active Directory and security monitoring lab to better understand Windows infrastructure, SIEM pipelines, endpoint telemetry, and attack detection in a realistic enterprise scale environment.
 
 The lab was eventually decommissioned after repeated stability and resource issues, but the process gave me hands-on experience troubleshooting authentication failures, scaling limitations, logging infrastructure, and virtualisation constraints.
 
